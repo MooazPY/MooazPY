@@ -114,7 +114,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📖 <a href="https://github.com/MooazPY/Pythonprojects/tree/main/bots/quran_bot">Discord Quran Bot Service</a></h3>
+      <h3>📖 <a href="https://github.com/MooazPY/quran-bot">Discord Quran Bot Service</a></h3>
       <p>Continuous cloud background daemon delivering scheduled daily Quran recitations, image posts, and verse lookup queries with high uptime.</p>
       <p>
         <img src="https://img.shields.io/badge/AWS-EC2-orange?style=flat-square&logo=amazonec2" />
@@ -168,3 +168,4 @@
 <div align="center">
   <sub>Built with ❤️ by Mooaz Rafaat • Always learning, building, and deploying</sub>
 </div>
+
