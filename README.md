@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="AWS EC2"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Linux%20Administration-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white" alt="Rocky Linux"/>
   <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="Red Hat"/>
@@ -168,4 +169,5 @@
 <div align="center">
   <sub>Built with ❤️ by Mooaz Rafaat • Always learning, building, and deploying</sub>
 </div>
+
 
