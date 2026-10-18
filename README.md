@@ -13,7 +13,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MooazPY&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/MooazPY)
+[![Profile Views](https://api.visitorbadge.io/api/visitors?path=MooazPY&label=Profile%20Views&labelColor=2a2f35&countColor=0e75b6&style=flat)](https://github.com/MooazPY)
 [![GitHub Stars](https://img.shields.io/github/stars/MooazPY?style=flat&color=yellow)](https://github.com/MooazPY)
 [![Followers](https://img.shields.io/github/followers/MooazPY?label=Followers&style=flat&color=blue)](https://github.com/MooazPY)
 
@@ -70,8 +70,7 @@
 
 #### 🗄️ Databases, Persistence & Security
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/SQLite%20(WAL%20Mode)-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/SQLite%20(WAL%20Mode)-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/Firebase%20Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firestore"/>
   <img src="https://img.shields.io/badge/AES%20Encryption-232F3E?style=flat-square&logo=auth0&logoColor=white" alt="Encryption"/>
 </p>
