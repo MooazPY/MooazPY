@@ -98,7 +98,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🩺 <a href="https://github.com/MooazPY/LiverCancer-Project">Liver Cancer Detection System</a></h3>
+      <h3>🩺 <a href="https://github.com/MooazPY/Pythonprojects/tree/main/LiverCancerDetectionSystem">Liver Cancer Detection System</a></h3>
       <p>Production-style AI healthcare backend handling 3-stage medical diagnostics (U-Net segmentation, ResNet-50 classification, and clinical severity grading) across 70,000+ CT images.</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI%20%2F%20Flask-Backend-009688?style=flat-square&logo=fastapi" />
@@ -115,7 +115,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📖 <a href="https://github.com/MooazPY/quran-bot">Discord Quran Bot Service</a></h3>
+      <h3>📖 <a href="https://github.com/MooazPY/Pythonprojects/tree/main/bots/quran_bot">Discord Quran Bot Service</a></h3>
       <p>Continuous cloud background daemon delivering scheduled daily Quran recitations, image posts, and verse lookup queries with high uptime.</p>
       <p>
         <img src="https://img.shields.io/badge/AWS-EC2-orange?style=flat-square&logo=amazonec2" />
@@ -169,5 +169,6 @@
 <div align="center">
   <sub>Built with ❤️ by Mooaz Rafaat • Always learning, building, and deploying</sub>
 </div>
+
 
 
